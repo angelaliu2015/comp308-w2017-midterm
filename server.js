@@ -1,7 +1,10 @@
 #!/usr/bin/env node
+/**
+ * Server. js Angela Liu 300714839 COMP308-W2017-MIDTERMPROJECT-Favourite Book List
+ */
 
 /**
- * Server. js Angela Liu 300714839 COMP308-W2017-MIDTERMPROJECT-Favourite	Book	List
+ * Module dependencies.
  */
 
 let app = require('./server/app');

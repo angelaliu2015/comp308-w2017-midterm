@@ -1,6 +1,6 @@
 {
-  "name": "comp308-w2017-midterm",
-  "description": "## Welcome to the MidTerm Project - the Favourite Book List App",
+  "name": "comp308-w2017-lesson6b",
+  "description": "## Welcome to Lesson 6 - Authentication with Passport",
   "main": "server.js",
   "authors": [
     "Tom Tsiliopoulos"
@@ -11,7 +11,7 @@
     "ExpressJS",
     "EJS"
   ],
-  "homepage": "",
+  "homepage": "https://github.com/CentennialCollege/COMP308-W2017-Lesson6B",
   "ignore": [
     "**/.*",
     "node_modules",
